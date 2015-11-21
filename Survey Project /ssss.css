@@ -1,0 +1,59 @@
+div#links {
+position: absolute;
+top: 200px;
+left: 25px;
+width: 160px;
+height: 700px;
+font: bold 16px Verdana, sans-serif;
+}
+
+div#links a {
+display: block;
+text-align: center;
+text-transform: lowercase;
+padding: 5px 10px;
+text-decoration: none;
+color:#000000;
+border:2px solid #000000;
+} 
+
+div#links a {
+background: #CC9966 url(http://xn--80aqafcrtq.cc/img/7/7/5/77570.jpg) 0 0 no-repeat fixed;
+}
+
+div#links a:hover {
+   color:#000000;
+   text-decoration: underline;
+}
+
+div#links a:hover {
+background: #CC9966 url(http://s15.postimg.org/afrczofy3/77570_bright.jpg) 0 0 no-repeat fixed;
+}
+
+div#top {
+position: absolute;
+top: 26px;
+left: 25px;
+right: 25px;
+color:#CC9966;  
+padding:10px;
+border:2px solid #000000;
+text-align: right;
+color: #000000;
+letter-spacing: 0.5em;
+}
+
+div#top {
+background: #CC9966 url(http://xn--80aqafcrtq.cc/img/7/7/5/77570.jpg) 0 0 no-repeat fixed;
+}
+
+div#content {
+position: absolute;
+top: 200px;
+left: 200px;
+right: 25px;
+color:#CC9966;
+padding: 10px;
+color: #000000;
+font: 16px Verdana, sans-serif;
+}
